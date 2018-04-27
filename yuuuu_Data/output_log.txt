@@ -1,0 +1,70 @@
+Mono path[0] = 'C:/Users/JCarlos/Documents/Tecnicas de conteo/yuuuu_Data/Managed'
+Mono path[1] = 'C:/Users/JCarlos/Documents/Tecnicas de conteo/yuuuu_Data/Mono'
+Mono config path = 'C:/Users/JCarlos/Documents/Tecnicas de conteo/yuuuu_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/JCarlos/Documents/Tecnicas de conteo/yuuuu_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55291
+Broadcasting "[IP] 169.254.146.127 [Port] 55291 [Flags] 2 [Guid] 1966257669 [EditorId] 2323566201 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-FL58SDV) [Debug] 0" to [169.254.255.255:54997]...
+Started listening to [0.0.0.0:55291]
+PlayerConnection already initialized - listening to [0.0.0.0:55291]
+Player data archive not found at `C:/Users/JCarlos/Documents/Tecnicas de conteo/yuuuu_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.112 seconds
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\JCarlos\Documents\Tecnicas de conteo\yuuuu_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 97.780006 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.133194 ms
+System memory in use before: 33.3 MB.
+System memory in use after: 18.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 497.
+Total: 5.276390 ms (FindLiveObjects: 0.067569 ms CreateObjectMapping: 0.024803 ms MarkObjects: 3.378463 ms  DeleteObjects: 1.804270 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.874979 ms
+System memory in use before: 18.1 MB.
+System memory in use after: 18.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.534139 ms (FindLiveObjects: 0.041910 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.387026 ms  DeleteObjects: 0.073128 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568351 ms
+System memory in use before: 18.0 MB.
+System memory in use after: 18.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 0.495650 ms (FindLiveObjects: 0.038061 ms CreateObjectMapping: 0.039344 ms MarkObjects: 0.343833 ms  DeleteObjects: 0.073128 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.772770 ms
+System memory in use before: 18.0 MB.
+System memory in use after: 18.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 0.547396 ms (FindLiveObjects: 0.049607 ms CreateObjectMapping: 0.046614 ms MarkObjects: 0.401566 ms  DeleteObjects: 0.047469 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27e4 -> priority: 1 
+  Thread -> id: 33e8 -> priority: 1 
